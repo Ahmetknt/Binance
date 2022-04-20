@@ -1,13 +1,14 @@
 # Binance
-Bu projede;< br >
--MVVM mimarisi< br >
--DI - Hilt< br >
--DataBinding< br >
--Retrofit< br >
--Coroutines< br >
--Base Classes< br >
--LiveData< br >
--ViewModel< br >
--Coil< br >
--Jetpack Navigation< br >
+Bu projede;
+-MVVM mimarisi
+< br >
+-DI - Hilt
+-DataBinding
+-Retrofit
+-Coroutines
+-Base Classes
+-LiveData
+-ViewModel
+-Coil
+-Jetpack Navigation
 Kullanılarak Kripto uygulaması yapılmıştır.
