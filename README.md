@@ -1,7 +1,7 @@
 # Binance
-# Bu projede;
-# -MVVM mimarisi                  
--DI - Hilt
+### Bu projede;
+### -MVVM mimarisi                  
+### -DI - Hilt
 -DataBinding
 -Retrofit
 -Coroutines
